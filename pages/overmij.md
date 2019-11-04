@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
+title: Over mij
+subtitle: Wat moet je over mij weten?
+permalink: /overmij/
+feature-img: "assets/img/pexels/tent.jpg"
 tags: [About, Test]
 ---
 

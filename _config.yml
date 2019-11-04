@@ -5,31 +5,35 @@ url: "https://sylhare.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap
-  avatar: assets/img/triangle.svg
+  title: assets/img/pexels/header.png
+  avatar: assets/img/W-LOGO.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <h3>Tussen het coderen en het rooien van pattaten... </h3><br>
+     <h4 class="subtitle">
+     Deze blog gaat over de paden die ik bewandel doorheen mijn leven, <br>
+     de dingen die ik meemaak en maak en doormaak.
+     </h4>
+  header_text_feature_image: assets/img/pexels/paiva.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "wouter.da@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: 
   google_plus:
-  instagram:
+  instagram: "@wouterda"
   keybase:
   linkedin:  # Full URL
   pinterest:
