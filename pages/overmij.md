@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Over mij
-subtitle: Wat moet je over mij weten?
+title: Wandelen met wie?
+subtitle: 
 permalink: /overmij/
 feature-img: "assets/img/pexels/tent.jpg"
 tags: [About, Test]

@@ -18,8 +18,4 @@ Vaak ben ik alleen op reis en of knutsel ik thuis wat spulletjes en wil ik dat k
 Jep, ik ben me er bewust van dat er al veel platformen zijn om je verhalen, foto's of videos op te delen.
 Maar ik verkies toch om op deze manier, een meer persoonlijke toets te geven aan de alfanumerische karakters die op je scherm te zien zijn.
 
-
-![Image of a glass on a book]({{ site.baseurl }}/assets/img/pexels/book-glass.jpeg)
-
-
 Photo by Clem Onojeghuo on Unsplash
